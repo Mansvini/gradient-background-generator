@@ -1,1 +1,1 @@
-# gradient-background-generator
+Fun JavaScript project
